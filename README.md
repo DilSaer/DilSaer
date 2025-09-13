@@ -1,33 +1,27 @@
-# Hallo und Herzlich Willkommen auf meinem GitHub! 👋 
+# Hello and Welcome to my GitHub! 👋
 
-Ich bin Daniel Schäfer und befinde mich derzeit in der Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**.
-
----
-
-## 💻 Mein Tech Stack & Interessen
-
-* **Programmiersprachen:** Mein Fokus liegt aktuell auf **C#**. Darüber hinaus interessiere ich mich für **Python**, **JavaScript** und **C++**.
-* **Frameworks & Technologien:** Ich sammle erste Erfahrungen mit dem **.NET**-Framework und seinen Möglichkeiten, wie **MAUI** und **Blazor**, um App- und Web-Entwicklung voranzutreiben.
-* **Projekte:** Die Begeisterung liegt bei der **App-Entwicklung** und **Web-Entwicklung**. Auch die **Spieleentwicklung** fasziniert mich, weshalb ich ein großes Interesse an **Unity** habe und erste Erfahrungen sammeln werde.
+I am DilSaer, currently completing an apprenticeship as a Software Developer.
 
 ---
 
-## 🚀 Mein Antrieb
+## 💻 My Tech Stack & Interests
 
-Was mich motiviert, ist die Faszination für neue Technologien und die Möglichkeit, eigene Ideen in funktionierende Software zu verwandeln. Hier auf GitHub möchte ich meine Fortschritte und Projekte mit der Community teilen.
-
----
-
-## 🎮🚁 Sonstiges
-
-Wenn ich nicht gerade am Programmieren bin, verbringe ich meine Zeit am liebsten mit Videospielen oder dem Fliegen meiner Drohne. :)
+- **Programming Languages**: My main focus is on **C#**, but I am also interested in **Python**, **JavaScript**, and **C++**.
+- **Frameworks & Technologies**: I am gaining experience with the **.NET** framework and its capabilities, such as **MAUI** and **Blazor**, to advance app and web development.
+- **Projects**: I am passionate about **app development** and **web development**. Additionally, I am fascinated by **game development**, which is why I have a strong interest in **Unity** and am gaining experience with it.
 
 ---
 
-## 📧 Kontakt zu mir
+## 🚀 My Motivation
 
-Für Fragen oder zum Austausch über Projekte kannst du mir eine E-Mail an kontakt@daniel-schaefer-email.de senden. 
+What drives me is my fascination with new technologies and the opportunity to transform my ideas into functional software. Here on GitHub, I want to share my progress and projects with the community.
 
 ---
 
-### Danke für deinen Besuch! :)
+## 🎮🚁 Other Interests
+
+When I'm not coding, I enjoy playing video games or flying my drone. :)
+
+---
+
+### Thanks for visiting! :)
