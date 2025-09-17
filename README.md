@@ -28,7 +28,7 @@ When I'm not coding, I enjoy playing video games or flying my drone. :)
 
 ---
 
-#### By the way, I like ducks, lol. By the way, I like ducks, lol. 
+#### By the way, I like ducks, lol.
 #### They’re just awesome. I don’t know why. Quack! Quack! 🦆
 
 ![Running Duck GIF](https://media1.tenor.com/m/XNYXr6rL2o8AAAAC/duck.gif)
