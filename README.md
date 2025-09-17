@@ -25,3 +25,5 @@ When I'm not coding, I enjoy playing video games or flying my drone. :)
 ---
 
 ### Thanks for visiting! :)
+
+![](https://media1.tenor.com/m/XNYXr6rL2o8AAAAC/duck.gif)
